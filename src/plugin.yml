@@ -1,0 +1,9 @@
+name: Challenge
+main: snapje.challenges.Core.Main
+version: Dev
+author: Snapje
+description: no description
+api-version: 1.13
+commands:
+  game:
+    aliases: [cl, challenge]
